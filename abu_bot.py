@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-TOKEN = "8648041673:AAHWpP3LJt85MlkLBs9-vzGflKeZNmnEN8k"
+TOKEN = "8648041673:AAG4ssNLwM8DAR6uYDJZn9HbdmMm99Ls1ls"
 ADMIN_ID = 8443902786
 
 bot = telebot.TeleBot(TOKEN)
